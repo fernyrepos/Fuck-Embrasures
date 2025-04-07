@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Fuck Embrasures</name>
+	<author>ferny</author>
+	<description>A mod that removes embrasures.</description>
+	<packageId>ferny.fuckembrasures</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>Ludeon.Rimworld</li>
+		<li>Ludeon.Rimworld.Royalty</li>
+		<li>Ludeon.Rimworld.Ideology</li>
+		<li>Ludeon.Rimworld.Biotech</li>
+		<li>Ludeon.Rimworld.Anomaly</li>
+		<li>dankpyon.medieval.overhaul</li>
+		<li>CETeam.CombatExtended</li>
+	</loadAfter>
+</ModMetaData> 
